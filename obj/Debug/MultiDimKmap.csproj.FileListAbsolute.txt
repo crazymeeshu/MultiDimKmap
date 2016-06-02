@@ -1,0 +1,12 @@
+C:\Users\Ani\Documents\Visual Studio 2012\Projects\MultiDimKmap\MultiDimKmap\bin\Debug\MultiDimKmap.exe.config
+C:\Users\Ani\Documents\Visual Studio 2012\Projects\MultiDimKmap\MultiDimKmap\bin\Debug\MultiDimKmap.exe
+C:\Users\Ani\Documents\Visual Studio 2012\Projects\MultiDimKmap\MultiDimKmap\bin\Debug\MultiDimKmap.pdb
+C:\Users\Ani\Documents\Visual Studio 2012\Projects\MultiDimKmap\MultiDimKmap\obj\Debug\MultiDimKmap.exe
+C:\Users\Ani\Documents\Visual Studio 2012\Projects\MultiDimKmap\MultiDimKmap\obj\Debug\MultiDimKmap.pdb
+C:\Users\Ani\Documents\Visual Studio 2012\Projects\MultiDimKmap\MultiDimKmap\obj\Debug\MultiDimKmap.csprojResolveAssemblyReference.cache
+C:\Users\Ani\Desktop\MultiDimKmap\MultiDimKmap\MultiDimKmap\bin\Debug\MultiDimKmap.exe.config
+C:\Users\Ani\Desktop\MultiDimKmap\MultiDimKmap\MultiDimKmap\bin\Debug\MultiDimKmap.exe
+C:\Users\Ani\Desktop\MultiDimKmap\MultiDimKmap\MultiDimKmap\bin\Debug\MultiDimKmap.pdb
+C:\Users\Ani\Desktop\MultiDimKmap\MultiDimKmap\MultiDimKmap\obj\Debug\MultiDimKmap.csprojResolveAssemblyReference.cache
+C:\Users\Ani\Desktop\MultiDimKmap\MultiDimKmap\MultiDimKmap\obj\Debug\MultiDimKmap.exe
+C:\Users\Ani\Desktop\MultiDimKmap\MultiDimKmap\MultiDimKmap\obj\Debug\MultiDimKmap.pdb
