@@ -5,4 +5,4 @@ Program takes as input truth table of up to 8 inputs and provides the reduced bo
 
 Code was developed in tandem with Ani Khalili. Code was developed using paired programming on one machine. So mine and Ani's code are identical.
 
-Developed using c#
+Developed with C# using Microsoft visual studio.
